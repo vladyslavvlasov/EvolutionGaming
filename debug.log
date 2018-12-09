@@ -1,0 +1,3 @@
+[1208/174757.295:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1208/174757.300:ERROR:exception_snapshot_win.cc(88)] thread ID 3940 not found in process
+[1208/174757.300:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
